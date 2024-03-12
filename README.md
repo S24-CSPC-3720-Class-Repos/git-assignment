@@ -8,3 +8,4 @@
 [Justin Silva](https://github.com/JusSil501)
 [Erick Counts](https://github.com/ecounts99)
 [Nicholas Giaimo](https://github.com/d0ns)
+[Max Campbell](https://github.com/Maximo471)
