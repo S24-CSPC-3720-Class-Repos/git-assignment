@@ -7,7 +7,6 @@ Some guidelines
 ## Branch Names
 The branch name should be related to the story you are working on.  
 Since this is a huge project, the **branch name should be your Clemson username**.
-
 ...  
 More guidelines  
 ...
