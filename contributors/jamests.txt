@@ -1,0 +1,2 @@
+Hi my name is Bennett.
+Command line arguments are not something I comprehend in windows.
