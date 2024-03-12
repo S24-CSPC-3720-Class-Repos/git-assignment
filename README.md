@@ -8,3 +8,4 @@
 [Justin Silva](https://github.com/JusSil501)
 [Erick Counts](https://github.com/ecounts99)
 [Noah Nisbet](https://github.com/noahnisbet)
+[Nicholas Giaimo](https://github.com/d0ns)
