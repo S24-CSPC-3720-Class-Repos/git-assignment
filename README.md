@@ -3,3 +3,4 @@
 ### Contributors:
 
 [Aditeya Srivastava](https://github.com/aditeyaS)
+[Jaden Humphries](https://github.com/jdhumph)
