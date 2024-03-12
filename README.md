@@ -3,3 +3,4 @@
 ### Contributors:
 
 [Aditeya Srivastava](https://github.com/aditeyaS)
+[Zach Westenhofer](https://github.com/zwesten)
