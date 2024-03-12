@@ -4,4 +4,4 @@
 
 [Aditeya Srivastava](https://github.com/aditeyaS)
 [Andrew Hoover](https://github.com/abhoove)
-[Kaylee Pierce] (https://github.com/kayleepierce)
+[Kaylee Pierce](https://github.com/kayleepierce)
