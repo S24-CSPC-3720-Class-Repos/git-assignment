@@ -5,4 +5,5 @@
 [Aditeya Srivastava](https://github.com/aditeyaS)
 [Andrew Hoover](https://github.com/abhoove)
 [Justin Silva](https://github.com/JusSil501)
+[Kristen Wright](https://github.com/kristenw9)
 
