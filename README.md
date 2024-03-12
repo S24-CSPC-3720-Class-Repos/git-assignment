@@ -3,5 +3,4 @@
 ### Contributors:
 
 [Aditeya Srivastava](https://github.com/aditeyaS)
-REMOVE THE 2 LINES TO
-RESOLVE THE MERGE CONFLICT
+[Andrew Hoover](https://github.com/abhoove)
