@@ -3,3 +3,4 @@
 ### Contributors:
 
 [Aditeya Srivastava](https://github.com/aditeyaS)
+[Lucia Wang](https://github.com/phishfish)
