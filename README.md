@@ -9,4 +9,5 @@
 [Anna Budreau](https://github.com/annakyoko)
 [Erick Counts](https://github.com/ecounts99)
 [Nicholas Giaimo](https://github.com/d0ns)
+[Riley Gibson](https://github.com/rggibso10)
 
