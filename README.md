@@ -3,6 +3,7 @@
 ### Contributors:
 
 [Aditeya Srivastava](https://github.com/aditeyaS)
+[Michael Lehon](https://github.com/MichaelLehon)
 [Alex Duncan](https://github.com/AFDtea)
 [Andrew Hoover](https://github.com/abhoove)
 [Justin Silva](https://github.com/JusSil501)
