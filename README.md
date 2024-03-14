@@ -3,10 +3,15 @@
 ### Contributors:
 
 [Aditeya Srivastava](https://github.com/aditeyaS)
-<<<<<<< HEAD
 
+
+
+
+[Alex Duncan](https://github.com/AFDtea)
+[Andrew Hoover](https://github.com/abhoove)
+[Justin Silva](https://github.com/JusSil501)
+[Anna Budreau](https://github.com/annakyoko)
+[Erick Counts](https://github.com/ecounts99)
+[Nicholas Giaimo](https://github.com/d0ns)
 [Jenna Grossmann](https://github.com/grossmannjenna) 
-=======
-REMOVE THE 2 LINES TO
-RESOLVE THE MERGE CONFLICT
->>>>>>> 33fc2e48fff261d37a9e7769286ef397a7de7a11
+
