@@ -9,4 +9,5 @@
 [Anna Budreau](https://github.com/annakyoko)
 [Erick Counts](https://github.com/ecounts99)
 [Nicholas Giaimo](https://github.com/d0ns)
+[Janki Patel](https://github.com/jhpatel05)
 
